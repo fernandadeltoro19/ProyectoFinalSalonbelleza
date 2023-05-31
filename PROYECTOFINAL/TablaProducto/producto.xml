@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tabla>
- <producto>
-  <nombre>cabellito</nombre>
-  <cantidad>23</cantidad>
-  <categoria>cabeza</categoria>
-  <stock>3</stock>
- </producto>
-</tabla>
