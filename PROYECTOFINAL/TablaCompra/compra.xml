@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <compra>
+  <cantidad>122222</cantidad>
+  <fecha>2023-10-10</fecha>
+  <metodopago>efectivo</metodopago>
+  <numerocompra>865</numerocompra>
+ </compra>
+</tabla>

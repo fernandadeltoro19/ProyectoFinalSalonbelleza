@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <cita>
+  <fecha>2018-02-15</fecha>
+  <nombre>Fernando</nombre>
+  <motivo>Uñas</motivo>
+  <telefono>2147483647</telefono>
+ </cita>
+ <cita>
+  <fecha>2023-05-10</fecha>
+  <nombre>FERNANDA </nombre>
+  <motivo>UÑAS</motivo>
+  <telefono>52453</telefono>
+ </cita>
+ <cita>
+  <fecha>2018-02-15</fecha>
+  <nombre>fer</nombre>
+  <motivo>Uñas</motivo>
+  <telefono>333</telefono>
+ </cita>
+ <cita>
+  <fecha>2018-02-15</fecha>
+  <nombre>mariana</nombre>
+  <motivo>cristal</motivo>
+  <telefono>0</telefono>
+ </cita>
+ <cita>
+  <fecha>2018-02-15</fecha>
+  <nombre>mariana</nombre>
+  <motivo>cristal</motivo>
+  <telefono>255</telefono>
+ </cita>
+ <cita>
+  <fecha>2018-02-15</fecha>
+  <nombre>mariana</nombre>
+  <motivo>cristal</motivo>
+  <telefono>255</telefono>
+ </cita>
+</tabla>
