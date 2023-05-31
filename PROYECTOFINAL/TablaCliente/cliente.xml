@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <cliente>
+  <nombre>ferx</nombre>
+  <apellidopaterno>DEL TORO</apellidopaterno>
+  <apellidomaterno>LIRA</apellidomaterno>
+  <telefono>2147483647</telefono>
+ </cliente>
+ <cliente>
+  <nombre>MELISA</nombre>
+  <apellidopaterno>DEL</apellidopaterno>
+  <apellidomaterno>TORO</apellidomaterno>
+  <telefono>86665</telefono>
+ </cliente>
+ <cliente>
+  <nombre>AXEL</nombre>
+  <apellidopaterno>JIMENEZ</apellidopaterno>
+  <apellidomaterno>MALTOS</apellidomaterno>
+  <telefono>8666</telefono>
+ </cliente>
+</tabla>

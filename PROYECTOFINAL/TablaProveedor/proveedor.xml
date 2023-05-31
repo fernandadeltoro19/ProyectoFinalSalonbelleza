@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <proveedor>
+  <nombre>PEPE</nombre>
+  <apellidopaterno>MARTINEZ</apellidopaterno>
+  <apellidomaterno>SILVA</apellidomaterno>
+  <telefono>54555</telefono>
+ </proveedor>
+ <proveedor>
+  <nombre>JESUS</nombre>
+  <apellidopaterno>JAIME</apellidopaterno>
+  <apellidomaterno>DEL TORO</apellidomaterno>
+  <telefono>1234567</telefono>
+ </proveedor>
+ <proveedor>
+  <nombre>GIO</nombre>
+  <apellidopaterno>LIRA</apellidopaterno>
+  <apellidomaterno>RO</apellidomaterno>
+  <telefono>1234567890</telefono>
+ </proveedor>
+</tabla>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <cita>
+  <fecha>2023-10-25</fecha>
+  <nombre>FERNANDA </nombre>
+  <motivo>ACRILICAS</motivo>
+  <telefono>121212</telefono>
+ </cita>
+ <cita>
+  <fecha>2023-05-05</fecha>
+  <nombre>ESTEFANIA</nombre>
+  <motivo>ALACIADO</motivo>
+  <telefono>253612</telefono>
+ </cita>
+ <cita>
+  <fecha>2018-02-15</fecha>
+  <nombre>MARIANA</nombre>
+  <motivo>RIZADO</motivo>
+  <telefono>138828</telefono>
+ </cita>
+</tabla>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <estilista>
+  <nombre>RAMON</nombre>
+  <apellidopaterno>RAMIREZ</apellidopaterno>
+  <apellidomaterno>ORTIZ</apellidomaterno>
+  <edad>12</edad>
+ </estilista>
+ <estilista>
+  <nombre>MARIEL</nombre>
+  <apellidopaterno>RODRIGUEZ </apellidopaterno>
+  <apellidomaterno>MONTES</apellidomaterno>
+  <edad>34</edad>
+ </estilista>
+</tabla>
